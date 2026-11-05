@@ -1,0 +1,3 @@
+data;tipo;titolo;isin;mercato;quantita;prezzo;controvalore_lordo;commissioni;n_ordine;conto_titoli;note
+2026-09-29;Acquisto;Teleperformance;FR0000051807;EURONEXT Parigi;70;71.2370;4986.59;0.00;;B502692782740;Costo totale 4986.59 da estratto portafoglio (prezzo medio arrotondato 71.24). Commissioni ed eventuale TTF francese inclusi nel costo: da verificare sull'eseguito di acquisto.
+2026-11-05;Vendita;Teleperformance;FR0000051807;EURONEXT Parigi;70;80.4000;5628.00;21.00;55923991;B502692782740;Ordine eseguito. Momento: Apertura + Continua. Codice internet 06216539. Validita' 05/11/2026.

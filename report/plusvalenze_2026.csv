@@ -1,0 +1,2 @@
+data_vendita;titolo;isin;quantita;prezzo_vendita;controvalore_lordo;commissioni_vendita;incasso_netto;costo_fiscale;plus_minusvalenza;rendimento_pct;giorni_detenzione;n_ordine
+2026-11-05;Teleperformance;FR0000051807;70;80.4000;5628.00;21.00;5607.00;4986.59;620.41;12.44;37;55923991
